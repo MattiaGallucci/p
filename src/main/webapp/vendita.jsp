@@ -17,7 +17,7 @@
 <body>
 	<div class="header">
 		<jsp:include page="header.jsp"/>
-	</div>
+	</div> 
 	
 	<div class="test">
 	<div class="container" style="height: 540px">
